@@ -25,6 +25,10 @@ body {
   padding: 0.8rem;
   text-align: center;
   width: 30rem;
+  border-radius: 2rem;
+  background: #222222;
+  box-shadow: inset 2.1rem 2.1rem 2.7rem #111111,
+    inset -2.1rem -2.1rem 2.7rem #333333;
 }
 .hms {
   font-size: 4.8rem;
